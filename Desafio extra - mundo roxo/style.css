@@ -1,0 +1,66 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o conteúdo principal */
+#mundo {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#mundo img {
+    width: 350px;
+    height: 238px;
+}
+
+#mundo h1 {
+    font-size: 32px;
+    margin: 20px 0;
+}
+
+#mundo h1 span {
+    color: #EE24FF;
+}
+
+#mundo p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#mundo strong {
+    font-weight: bold;
+}
+
+/* Estilos para o footer */
+footer {
+    
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    font-weight: bold;
+    color: black;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 0 10px;
+    color: black;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#Wave {
+    min-width: 100vw;
+    margin-bottom: 0;
+}
